@@ -28,3 +28,6 @@ To install the APK on your VR headset using SideQuest:
    - Launch **Shakespeare Escape Room**
 
 ---
+
+## Link to download the file:
+https://weramichalek.itch.io/shakeaspearean-escape
